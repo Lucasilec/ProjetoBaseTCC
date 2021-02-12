@@ -1,0 +1,10 @@
+C:\Users\gravacao\source\repos\BarberShopAPP\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\gravacao\source\repos\BarberShopAPP\Entities\bin\Debug\Entities.dll
+C:\Users\gravacao\source\repos\BarberShopAPP\Entities\bin\Debug\Entities.pdb
+C:\Users\gravacao\source\repos\BarberShopAPP\Entities\obj\Debug\Entities.dll
+C:\Users\gravacao\source\repos\BarberShopAPP\Entities\obj\Debug\Entities.pdb
+C:\Users\moc\Desktop\BarberShopAPP\BarberShopAPP\Entities\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\BarberShopAPP\BarberShopAPP\Entities\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\BarberShopAPP\BarberShopAPP\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\BarberShopAPP\BarberShopAPP\Entities\obj\Debug\Entities.dll
+C:\Users\moc\Desktop\BarberShopAPP\BarberShopAPP\Entities\obj\Debug\Entities.pdb
